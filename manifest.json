@@ -1,15 +1,15 @@
 {
     "manifest_version": 3,
-    "name": "aaBlog & TikTok Content Extractor",
+    "name": "Local Tools",
     "version": "1.0",
-    "description": "Extracts blog content and TikTok URLs",
+    "description": "Extracts Keyword, KD, and SV data from Ahrefs reports",
     "permissions": [
       "activeTab",
       "scripting",
       "clipboardWrite"
     ],
     "action": {
-      "default_title": "Content Extractor",
+      "default_title": "Local Tools",
       "default_popup": "popup.html"
     }
   }
